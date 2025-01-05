@@ -1,4 +1,4 @@
-from timed import timed
+from .timed import timed
 
 SSID_MARK = b"Device.WiFi.SSID."
 SSID_MARK_LEN = len(SSID_MARK)
