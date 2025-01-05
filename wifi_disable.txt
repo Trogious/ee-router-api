@@ -1,0 +1,77 @@
+uft8:
+
+1.0os::012345-:119746:2432000646
+usp-gui-admin:��
+(
+$09283ca2-3ba9-2c48-ecf6-3d7f1e13a74e�
+�"�M
+<Device.WiFi.AccessPoint.[SSIDReference==Device.WiFi.SSID.4].
+Enable0M
+<Device.WiFi.AccessPoint.[SSIDReference==Device.WiFi.SSID.9].
+Enable03
+"Device.WiFi.SSID.[Name==guest_2G].
+Enable03
+"Device.WiFi.SSID.[Name==guest_5G].
+Enable0
+
+topic:
+/:119746:2432000646/usp/admin/request/reply-to=%2F:119746:2432000646%2Fusp%2Fadmin%2Freply-to%2F4e59f973-f6c6-1423-2555-15c37b2f28a3
+
+base64:
+CgMxLjASHW9zOjowMTIzNDUtOjExOTc0NjoyNDMyMDAwNjQ2Gg11c3AtZ3VpLWFkbWluOsACEr0CCigKJDA5MjgzY2EyLTNiYTktMmM0OC1lY2Y2LTNkN2YxZTEzYTc0ZRAEEpACCo0CIooCCAESTQo8RGV2aWNlLldpRmkuQWNjZXNzUG9pbnQuW1NTSURSZWZlcmVuY2U9PURldmljZS5XaUZpLlNTSUQuNF0uEg0KBkVuYWJsZRIBMBgBEk0KPERldmljZS5XaUZpLkFjY2Vzc1BvaW50LltTU0lEUmVmZXJlbmNlPT1EZXZpY2UuV2lGaS5TU0lELjldLhINCgZFbmFibGUSATAYARIzCiJEZXZpY2UuV2lGaS5TU0lELltOYW1lPT1ndWVzdF8yR10uEg0KBkVuYWJsZRIBMBgBEjMKIkRldmljZS5XaUZpLlNTSUQuW05hbWU9PWd1ZXN0XzVHXS4SDQoGRW5hYmxlEgEwGAE=
+
+response uff8:
+
+1.2
+usp-gui-adminos::012345-:119746:2432000646:��
+(
+$09283ca2-3ba9-2c48-ecf6-3d7f1e13a74e��"�
+m
+<Device.WiFi.AccessPoint.[SSIDReference==Device.WiFi.SSID.4].-+
+)
+Device.WiFi.AccessPoint.4.
+Enable0
+m
+<Device.WiFi.AccessPoint.[SSIDReference==Device.WiFi.SSID.9].-+
+)
+Device.WiFi.AccessPoint.9.
+Enable0
+L
+"Device.WiFi.SSID.[Name==guest_2G].&$
+"
+Device.WiFi.SSID.4.
+Enable0
+L
+"Device.WiFi.SSID.[Name==guest_5G].&$
+"
+Device.WiFi.SSID.9.
+Enable0
+
+
+=========================
+
+
+1.2
+usp-gui-adminos::012345-:119746:2432000646:��
+(
+$09283ca2-3ba9-2c48-ecf6-3d7f1e13a74e��"�
+m
+<Device.WiFi.AccessPoint.[SSIDReference==Device.WiFi.SSID.4].-+
+)
+Device.WiFi.AccessPoint.4.
+Enable0
+m
+<Device.WiFi.AccessPoint.[SSIDReference==Device.WiFi.SSID.9].-+
+)
+Device.WiFi.AccessPoint.9.
+Enable0
+L
+"Device.WiFi.SSID.[Name==guest_2G].&$
+"
+Device.WiFi.SSID.4.
+Enable0
+L
+"Device.WiFi.SSID.[Name==guest_5G].&$
+"
+Device.WiFi.SSID.9.
+Enable0

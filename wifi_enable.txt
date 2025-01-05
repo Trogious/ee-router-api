@@ -1,0 +1,48 @@
+utf8:
+
+1.0os::012345-:119746:2432000646
+usp-gui-admin:��
+(
+$df66e40b-ae5b-e8f1-0ec9-bec9dbeb604b�
+�"�M
+<Device.WiFi.AccessPoint.[SSIDReference==Device.WiFi.SSID.4].
+Enable1M
+<Device.WiFi.AccessPoint.[SSIDReference==Device.WiFi.SSID.9].
+Enable13
+"Device.WiFi.SSID.[Name==guest_2G].
+Enable13
+"Device.WiFi.SSID.[Name==guest_5G].
+Enable1
+
+topic:
+/:119746:2432000646/usp/admin/request/reply-to=%2F:119746:2432000646%2Fusp%2Fadmin%2Freply-to%2F4e59f973-f6c6-1423-2555-15c37b2f28a3
+
+base64:
+CgMxLjASHW9zOjowMTIzNDUtOjExOTc0NjoyNDMyMDAwNjQ2Gg11c3AtZ3VpLWFkbWluOsACEr0CCigKJGRmNjZlNDBiLWFlNWItZThmMS0wZWM5LWJlYzlkYmViNjA0YhAEEpACCo0CIooCCAESTQo8RGV2aWNlLldpRmkuQWNjZXNzUG9pbnQuW1NTSURSZWZlcmVuY2U9PURldmljZS5XaUZpLlNTSUQuNF0uEg0KBkVuYWJsZRIBMRgBEk0KPERldmljZS5XaUZpLkFjY2Vzc1BvaW50LltTU0lEUmVmZXJlbmNlPT1EZXZpY2UuV2lGaS5TU0lELjldLhINCgZFbmFibGUSATEYARIzCiJEZXZpY2UuV2lGaS5TU0lELltOYW1lPT1ndWVzdF8yR10uEg0KBkVuYWJsZRIBMRgBEjMKIkRldmljZS5XaUZpLlNTSUQuW05hbWU9PWd1ZXN0XzVHXS4SDQoGRW5hYmxlEgExGAE=
+
+response utf8:
+
+1.2
+usp-gui-adminos::012345-:119746:2432000646:��
+(
+$f04b92b6-b0d4-0cdc-33be-5fd0498032a5��"�
+m
+<Device.WiFi.AccessPoint.[SSIDReference==Device.WiFi.SSID.4].-+
+)
+Device.WiFi.AccessPoint.4.
+Enable1
+m
+<Device.WiFi.AccessPoint.[SSIDReference==Device.WiFi.SSID.9].-+
+)
+Device.WiFi.AccessPoint.9.
+Enable1
+L
+"Device.WiFi.SSID.[Name==guest_2G].&$
+"
+Device.WiFi.SSID.4.
+Enable1
+L
+"Device.WiFi.SSID.[Name==guest_5G].&$
+"
+Device.WiFi.SSID.9.
+Enable1

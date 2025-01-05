@@ -1,0 +1,1801 @@
+1.2
+usp-gui-adminos::012345-:119746:2432000646:����
+(
+$7ea2b0c9-25e5-f8a8-7fca-9ffb8dcf054f����
+��
+��
+Device.WiFi."9
+Device.WiFi.)
+X_BT-COM_WiFiModeWiFiModeNotSupported"E
+*Device.WiFi.DataElements.Network.Device.1.
+ID5a:96:71:7e:41:10"x
+>Device.WiFi.DataElements.Network.Device.1.Radio.1.BSS.2.STA.1.
+
+MACAddressc8:2e:18:34:8c:14
+SignalStrength128"x
+>Device.WiFi.DataElements.Network.Device.1.Radio.1.BSS.2.STA.2.
+
+MACAddress24:58:7c:08:3f:a8
+SignalStrength130"x
+>Device.WiFi.DataElements.Network.Device.1.Radio.1.BSS.2.STA.3.
+
+MACAddressc8:2e:18:34:8c:0c
+SignalStrength134"x
+>Device.WiFi.DataElements.Network.Device.1.Radio.1.BSS.2.STA.4.
+
+MACAddressc8:2e:18:34:3b:cc
+SignalStrength146"x
+>Device.WiFi.DataElements.Network.Device.1.Radio.1.BSS.2.STA.5.
+
+MACAddressc8:2e:18:34:a2:e4
+SignalStrength138"x
+>Device.WiFi.DataElements.Network.Device.1.Radio.1.BSS.2.STA.6.
+
+MACAddressc8:2e:18:34:5c:88
+SignalStrength150"x
+>Device.WiFi.DataElements.Network.Device.1.Radio.1.BSS.2.STA.7.
+
+MACAddress54:ef:44:52:a7:de
+SignalStrength124"x
+>Device.WiFi.DataElements.Network.Device.1.Radio.1.BSS.2.STA.8.
+
+MACAddress54:ef:44:53:ce:bb
+SignalStrength136"x
+>Device.WiFi.DataElements.Network.Device.1.Radio.1.BSS.2.STA.9.
+
+MACAddress0c:dc:91:0b:a8:03
+SignalStrength114"y
+?Device.WiFi.DataElements.Network.Device.1.Radio.1.BSS.2.STA.10.
+
+MACAddress50:d4:5c:64:f1:f0
+SignalStrength106"y
+?Device.WiFi.DataElements.Network.Device.1.Radio.1.BSS.2.STA.11.
+
+MACAddress40:31:3c:a3:88:1c
+SignalStrength112"x
+>Device.WiFi.DataElements.Network.Device.1.Radio.2.BSS.2.STA.1.
+
+MACAddressc8:d7:78:bd:ff:21
+SignalStrength106"w
+>Device.WiFi.DataElements.Network.Device.1.Radio.2.BSS.2.STA.2.
+
+MACAddressc0:8d:51:33:1b:07
+SignalStrength96"x
+>Device.WiFi.DataElements.Network.Device.1.Radio.3.BSS.2.STA.1.
+
+MACAddress9e:0f:20:6a:57:8e
+SignalStrength100"w
+>Device.WiFi.DataElements.Network.Device.1.Radio.3.BSS.2.STA.2.
+
+MACAddressd4:e9:8a:f9:02:c7
+SignalStrength92"�
+Device.WiFi.Radio.1.
+Aliascpe-1
+Enable1
+StatusUp
+LowerLayers
+Nameradio0_band0
+
+MaxBitRate573+
+SupportedFrequencyBands2.4GHz,5GHz,6GHz 
+OperatingFrequencyBand2.4GHz!
+SupportedStandardsb,g,n,ax,be
+OperatingStandards	g,n,ax,be
+
+ChannelsInUse11
+Channel11
+AutoChannelEnable11
+PossibleChannels1,2,3,4,5,6,7,8,9,10,11,12,13
+AutoChannelSupported1
+AutoChannelRefreshPeriod0
+MaxSupportedAssociations128
+FragmentationThreshold2346
+RTSThreshold2347
+BeaconPeriod100
+
+DTIMPeriod22
+#SupportedOperatingChannelBandwidths20MHz,40MHz"
+OperatingChannelBandwidth20MHz)
+ CurrentOperatingChannelBandwidth20MHz
+PreambleTypelong
+IEEE80211hSupported0
+IEEE80211hEnabled0w
+TransmitPowerSupported]-1,0,4,7,10,14,17,20,24,27,30,34,37,40,44,47,50,54,57,60,64,67,70,74,77,80,84,87,90,94,97,100
+
+TransmitPower-1
+RegulatoryDomainGB 
+X_BT-COM_Rescan0"�
+Device.WiFi.Radio.1.Stats.
+Noise-108
+	BytesSent24092124
+
+BytesReceived3318786
+PacketsSent63742
+PacketsReceived12646
+
+ErrorsSent0
+ErrorsReceived0
+DiscardPacketsSent0
+DiscardPacketsReceived0
+
+FCSErrorCount0"�
+Device.WiFi.Radio.2.
+Aliascpe-2
+Enable1
+StatusUp
+LowerLayers
+Nameradio0_band1
+
+MaxBitRate4803+
+SupportedFrequencyBands2.4GHz,5GHz,6GHz
+OperatingFrequencyBand5GHz"
+SupportedStandardsa,n,ac,ax,be"
+OperatingStandardsa,n,ac,ax,be
+
+ChannelsInUse100
+Channel100
+AutoChannelEnable1K
+PossibleChannels736,40,44,48,52,56,60,64,100,104,108,112,116,120,124,128
+AutoChannelSupported1
+AutoChannelRefreshPeriod0
+MaxSupportedAssociations128
+FragmentationThreshold2346
+RTSThreshold2347
+BeaconPeriod100
+
+DTIMPeriod2?
+#SupportedOperatingChannelBandwidths20MHz,40MHz,80MHz,160MHz"
+OperatingChannelBandwidth80MHz*
+ CurrentOperatingChannelBandwidth160MHz
+PreambleTypelong
+IEEE80211hSupported1
+IEEE80211hEnabled0w
+TransmitPowerSupported]-1,0,4,7,10,14,17,20,24,27,30,34,37,40,44,47,50,54,57,60,64,67,70,74,77,80,84,87,90,94,97,100
+
+TransmitPower-1
+RegulatoryDomainGB 
+X_BT-COM_Rescan0"�
+Device.WiFi.Radio.2.Stats.
+Noise-107
+	BytesSent5072448
+
+BytesReceived1079812
+PacketsSent15514
+PacketsReceived4318
+
+ErrorsSent0
+ErrorsReceived0
+DiscardPacketsSent0
+DiscardPacketsReceived0
+
+FCSErrorCount0"�
+Device.WiFi.Radio.3.
+Aliascpe-3
+Enable1
+StatusUp
+LowerLayers
+Nameradio0_band2
+
+MaxBitRate0+
+SupportedFrequencyBands2.4GHz,5GHz,6GHz
+OperatingFrequencyBand6GHz
+SupportedStandardsax,be
+OperatingStandardsax,be
+
+ChannelsInUse69
+Channel69
+AutoChannelEnable0X
+PossibleChannelsD1,5,9,13,17,21,25,29,33,37,41,45,49,53,57,61,65,69,73,77,81,85,89,93
+AutoChannelSupported0
+AutoChannelRefreshPeriod0
+MaxSupportedAssociations256
+FragmentationThreshold2346
+RTSThreshold2347
+BeaconPeriod100
+
+DTIMPeriod2F
+#SupportedOperatingChannelBandwidths20MHz,40MHz,80MHz,160MHz,320MHz#
+OperatingChannelBandwidth320MHz*
+ CurrentOperatingChannelBandwidth320MHz
+PreambleTypelong
+IEEE80211hSupported0
+IEEE80211hEnabled0w
+TransmitPowerSupported]-1,0,4,7,10,14,17,20,24,27,30,34,37,40,44,47,50,54,57,60,64,67,70,74,77,80,84,87,90,94,97,100
+
+TransmitPower-1
+RegulatoryDomainGB 
+X_BT-COM_Rescan0"�
+Device.WiFi.Radio.3.Stats.
+Noise-101
+	BytesSent22048114910
+
+BytesReceived	445904547
+PacketsSent23746393
+PacketsReceived3698188
+
+ErrorsSent0
+ErrorsReceived0
+DiscardPacketsSent0
+DiscardPacketsReceived0
+
+FCSErrorCount0"�
+Device.WiFi.SSID.1.
+Aliascpe-1
+Enable1
+StatusUp
+SSID
+deathstar2
+Namemain_2G"
+LowerLayersDevice.WiFi.Radio.1
+BSSID58:96:71:7e:41:12
+
+MACAddress58:96:71:7E:41:12"�
+Device.WiFi.SSID.1.Stats.
+	BytesSent24027678
+
+BytesReceived3319020
+PacketsSent62703
+PacketsReceived12648
+
+ErrorsSent0
+RetransCount0
+FailedRetransCount0
+
+RetryCount0
+MultipleRetryCount0
+ACKFailureCount0
+AggregatedPacketCount0
+ErrorsReceived0
+UnicastPacketsSent0
+UnicastPacketsReceived0
+DiscardPacketsSent0
+DiscardPacketsReceived0
+MulticastPacketsSent0
+MulticastPacketsReceived0
+BroadcastPacketsSent0
+BroadcastPacketsReceived0 
+UnknownProtoPacketsReceived0"�
+Device.WiFi.SSID.2.
+Aliascpe-2
+Enable0
+StatusDown
+SSIDEE WiFi
+Nameopen_wifi_o_2G"
+LowerLayersDevice.WiFi.Radio.1
+BSSID
+
+MACAddress"�
+Device.WiFi.SSID.2.Stats.
+	BytesSent0
+
+BytesReceived0
+PacketsSent0
+PacketsReceived0
+
+ErrorsSent0
+RetransCount0
+FailedRetransCount0
+
+RetryCount0
+MultipleRetryCount0
+ACKFailureCount0
+AggregatedPacketCount0
+ErrorsReceived0
+UnicastPacketsSent0
+UnicastPacketsReceived0
+DiscardPacketsSent0
+DiscardPacketsReceived0
+MulticastPacketsSent0
+MulticastPacketsReceived0
+BroadcastPacketsSent0
+BroadcastPacketsReceived0 
+UnknownProtoPacketsReceived0"�
+Device.WiFi.SSID.3.
+Aliascpe-3
+Enable0
+StatusDown
+SSID	EE WiFi-X
+Nameopen_wifi_x_2G"
+LowerLayersDevice.WiFi.Radio.1
+BSSID
+
+MACAddress"�
+Device.WiFi.SSID.3.Stats.
+	BytesSent0
+
+BytesReceived0
+PacketsSent0
+PacketsReceived0
+
+ErrorsSent0
+RetransCount0
+FailedRetransCount0
+
+RetryCount0
+MultipleRetryCount0
+ACKFailureCount0
+AggregatedPacketCount0
+ErrorsReceived0
+UnicastPacketsSent0
+UnicastPacketsReceived0
+DiscardPacketsSent0
+DiscardPacketsReceived0
+MulticastPacketsSent0
+MulticastPacketsReceived0
+BroadcastPacketsSent0
+BroadcastPacketsReceived0 
+UnknownProtoPacketsReceived0"�
+Device.WiFi.SSID.4.
+Aliascpe-4
+Enable0
+StatusDown
+SSID
+deathstar3
+Nameguest_2G"
+LowerLayersDevice.WiFi.Radio.1
+BSSID
+
+MACAddress"�
+Device.WiFi.SSID.4.Stats.
+	BytesSent0
+
+BytesReceived0
+PacketsSent0
+PacketsReceived0
+
+ErrorsSent0
+RetransCount0
+FailedRetransCount0
+
+RetryCount0
+MultipleRetryCount0
+ACKFailureCount0
+AggregatedPacketCount0
+ErrorsReceived0
+UnicastPacketsSent0
+UnicastPacketsReceived0
+DiscardPacketsSent0
+DiscardPacketsReceived0
+MulticastPacketsSent0
+MulticastPacketsReceived0
+BroadcastPacketsSent0
+BroadcastPacketsReceived0 
+UnknownProtoPacketsReceived0"�
+Device.WiFi.SSID.5.
+Aliascpe-5
+Enable1
+StatusUp
+SSIDBH-5896717E4110
+Namebackhaul_2G"
+LowerLayersDevice.WiFi.Radio.1
+BSSID5a:96:71:7e:41:12
+
+MACAddress5A:96:71:7E:41:12"�
+Device.WiFi.SSID.5.Stats.
+	BytesSent66446
+
+BytesReceived0
+PacketsSent1049
+PacketsReceived0
+
+ErrorsSent0
+RetransCount0
+FailedRetransCount0
+
+RetryCount0
+MultipleRetryCount0
+ACKFailureCount0
+AggregatedPacketCount0
+ErrorsReceived0
+UnicastPacketsSent0
+UnicastPacketsReceived0
+DiscardPacketsSent0
+DiscardPacketsReceived0
+MulticastPacketsSent0
+MulticastPacketsReceived0
+BroadcastPacketsSent0
+BroadcastPacketsReceived0 
+UnknownProtoPacketsReceived0"�
+Device.WiFi.SSID.6.
+Aliascpe-6
+Enable1
+StatusUp
+SSID
+deathstar2
+Namemain_5G"
+LowerLayersDevice.WiFi.Radio.2
+BSSID58:96:71:7e:41:13
+
+MACAddress58:96:71:7E:41:13"�
+Device.WiFi.SSID.6.Stats.
+	BytesSent5006904
+
+BytesReceived1079812
+PacketsSent14470
+PacketsReceived4318
+
+ErrorsSent0
+RetransCount0
+FailedRetransCount0
+
+RetryCount0
+MultipleRetryCount0
+ACKFailureCount0
+AggregatedPacketCount0
+ErrorsReceived0
+UnicastPacketsSent0
+UnicastPacketsReceived0
+DiscardPacketsSent0
+DiscardPacketsReceived0
+MulticastPacketsSent0
+MulticastPacketsReceived0
+BroadcastPacketsSent0
+BroadcastPacketsReceived0 
+UnknownProtoPacketsReceived0"�
+Device.WiFi.SSID.7.
+Aliascpe-7
+Enable0
+StatusDown
+SSIDEE WiFi
+Nameopen_wifi_o_5G"
+LowerLayersDevice.WiFi.Radio.2
+BSSID
+
+MACAddress"�
+Device.WiFi.SSID.7.Stats.
+	BytesSent0
+
+BytesReceived0
+PacketsSent0
+PacketsReceived0
+
+ErrorsSent0
+RetransCount0
+FailedRetransCount0
+
+RetryCount0
+MultipleRetryCount0
+ACKFailureCount0
+AggregatedPacketCount0
+ErrorsReceived0
+UnicastPacketsSent0
+UnicastPacketsReceived0
+DiscardPacketsSent0
+DiscardPacketsReceived0
+MulticastPacketsSent0
+MulticastPacketsReceived0
+BroadcastPacketsSent0
+BroadcastPacketsReceived0 
+UnknownProtoPacketsReceived0"�
+Device.WiFi.SSID.8.
+Aliascpe-8
+Enable0
+StatusDown
+SSID	EE WiFi-X
+Nameopen_wifi_x_5G"
+LowerLayersDevice.WiFi.Radio.2
+BSSID
+
+MACAddress"�
+Device.WiFi.SSID.8.Stats.
+	BytesSent0
+
+BytesReceived0
+PacketsSent0
+PacketsReceived0
+
+ErrorsSent0
+RetransCount0
+FailedRetransCount0
+
+RetryCount0
+MultipleRetryCount0
+ACKFailureCount0
+AggregatedPacketCount0
+ErrorsReceived0
+UnicastPacketsSent0
+UnicastPacketsReceived0
+DiscardPacketsSent0
+DiscardPacketsReceived0
+MulticastPacketsSent0
+MulticastPacketsReceived0
+BroadcastPacketsSent0
+BroadcastPacketsReceived0 
+UnknownProtoPacketsReceived0"�
+Device.WiFi.SSID.9.
+Aliascpe-9
+Enable0
+StatusDown
+SSID
+deathstar3
+Nameguest_5G"
+LowerLayersDevice.WiFi.Radio.2
+BSSID
+
+MACAddress"�
+Device.WiFi.SSID.9.Stats.
+	BytesSent0
+
+BytesReceived0
+PacketsSent0
+PacketsReceived0
+
+ErrorsSent0
+RetransCount0
+FailedRetransCount0
+
+RetryCount0
+MultipleRetryCount0
+ACKFailureCount0
+AggregatedPacketCount0
+ErrorsReceived0
+UnicastPacketsSent0
+UnicastPacketsReceived0
+DiscardPacketsSent0
+DiscardPacketsReceived0
+MulticastPacketsSent0
+MulticastPacketsReceived0
+BroadcastPacketsSent0
+BroadcastPacketsReceived0 
+UnknownProtoPacketsReceived0"�
+Device.WiFi.SSID.10.
+Aliascpe-10
+Enable1
+StatusUp
+SSIDBH-5896717E4110
+Namebackhaul_5G"
+LowerLayersDevice.WiFi.Radio.2
+BSSID5a:96:71:7e:41:13
+
+MACAddress5A:96:71:7E:41:13"�
+Device.WiFi.SSID.10.Stats.
+	BytesSent66384
+
+BytesReceived0
+PacketsSent1048
+PacketsReceived0
+
+ErrorsSent0
+RetransCount0
+FailedRetransCount0
+
+RetryCount0
+MultipleRetryCount0
+ACKFailureCount0
+AggregatedPacketCount0
+ErrorsReceived0
+UnicastPacketsSent0
+UnicastPacketsReceived0
+DiscardPacketsSent0
+DiscardPacketsReceived0
+MulticastPacketsSent0
+MulticastPacketsReceived0
+BroadcastPacketsSent0
+BroadcastPacketsReceived0 
+UnknownProtoPacketsReceived0"�
+Device.WiFi.SSID.11.
+Aliascpe-11
+Enable0
+StatusDown
+SSIDEE-CG8ZQ2-Comp
+Namecompatibility_2G"
+LowerLayersDevice.WiFi.Radio.1
+BSSID
+
+MACAddress"�
+Device.WiFi.SSID.11.Stats.
+	BytesSent0
+
+BytesReceived0
+PacketsSent0
+PacketsReceived0
+
+ErrorsSent0
+RetransCount0
+FailedRetransCount0
+
+RetryCount0
+MultipleRetryCount0
+ACKFailureCount0
+AggregatedPacketCount0
+ErrorsReceived0
+UnicastPacketsSent0
+UnicastPacketsReceived0
+DiscardPacketsSent0
+DiscardPacketsReceived0
+MulticastPacketsSent0
+MulticastPacketsReceived0
+BroadcastPacketsSent0
+BroadcastPacketsReceived0 
+UnknownProtoPacketsReceived0"�
+Device.WiFi.SSID.12.
+Aliascpe-12
+Enable0
+StatusDown
+SSIDEE-CG8ZQ2-Comp
+Namecompatibility_5G"
+LowerLayersDevice.WiFi.Radio.2
+BSSID
+
+MACAddress"�
+Device.WiFi.SSID.12.Stats.
+	BytesSent0
+
+BytesReceived0
+PacketsSent0
+PacketsReceived0
+
+ErrorsSent0
+RetransCount0
+FailedRetransCount0
+
+RetryCount0
+MultipleRetryCount0
+ACKFailureCount0
+AggregatedPacketCount0
+ErrorsReceived0
+UnicastPacketsSent0
+UnicastPacketsReceived0
+DiscardPacketsSent0
+DiscardPacketsReceived0
+MulticastPacketsSent0
+MulticastPacketsReceived0
+BroadcastPacketsSent0
+BroadcastPacketsReceived0 
+UnknownProtoPacketsReceived0"�
+Device.WiFi.SSID.13.
+Aliascpe-13
+Enable1
+StatusUp
+SSID
+deathstar2
+Namemain_6G"
+LowerLayersDevice.WiFi.Radio.3
+BSSID58:96:71:7e:41:18
+
+MACAddress58:96:71:7E:41:18"�
+Device.WiFi.SSID.13.Stats.
+	BytesSent21932725732
+
+BytesReceived	445904622
+PacketsSent21923420
+PacketsReceived3698189
+
+ErrorsSent0
+RetransCount0
+FailedRetransCount0
+
+RetryCount0
+MultipleRetryCount0
+ACKFailureCount0
+AggregatedPacketCount0
+ErrorsReceived0
+UnicastPacketsSent0
+UnicastPacketsReceived0
+DiscardPacketsSent0
+DiscardPacketsReceived0
+MulticastPacketsSent0
+MulticastPacketsReceived0
+BroadcastPacketsSent0
+BroadcastPacketsReceived0 
+UnknownProtoPacketsReceived0"�
+Device.WiFi.SSID.14.
+Aliascpe-14
+Enable0
+StatusDown
+SSID
+deathstar3
+Nameguest_6G"
+LowerLayersDevice.WiFi.Radio.3
+BSSID
+
+MACAddress"�
+Device.WiFi.SSID.14.Stats.
+	BytesSent0
+
+BytesReceived0
+PacketsSent0
+PacketsReceived0
+
+ErrorsSent0
+RetransCount0
+FailedRetransCount0
+
+RetryCount0
+MultipleRetryCount0
+ACKFailureCount0
+AggregatedPacketCount0
+ErrorsReceived0
+UnicastPacketsSent0
+UnicastPacketsReceived0
+DiscardPacketsSent0
+DiscardPacketsReceived0
+MulticastPacketsSent0
+MulticastPacketsReceived0
+BroadcastPacketsSent0
+BroadcastPacketsReceived0 
+UnknownProtoPacketsReceived0"�
+Device.WiFi.SSID.15.
+Aliascpe-15
+Enable1
+StatusUp
+SSIDBH-5896717E4110
+Namebackhaul_6G"
+LowerLayersDevice.WiFi.Radio.3
+BSSID58:96:71:7e:41:19
+
+MACAddress58:96:71:7E:41:19"�
+Device.WiFi.SSID.15.Stats.
+	BytesSent	115390124
+
+BytesReceived0
+PacketsSent1822978
+PacketsReceived0
+
+ErrorsSent0
+RetransCount0
+FailedRetransCount0
+
+RetryCount0
+MultipleRetryCount0
+ACKFailureCount0
+AggregatedPacketCount0
+ErrorsReceived0
+UnicastPacketsSent0
+UnicastPacketsReceived0
+DiscardPacketsSent0
+DiscardPacketsReceived0
+MulticastPacketsSent0
+MulticastPacketsReceived0
+BroadcastPacketsSent0
+BroadcastPacketsReceived0 
+UnknownProtoPacketsReceived0"�
+Device.WiFi.AccessPoint.1.
+Aliascpe-1
+Enable1
+StatusEnabled#
+
+SSIDReferenceDevice.WiFi.SSID.1
+SSIDAdvertisementEnabled1
+	WMMEnable1
+UAPSDEnable0
+MACAddressControlEnabled0
+UAPSDCapability1
+
+WMMCapability1
+MaxAllowedAssociations128
+IsolationEnable0
+AllowedMACAddress!
+X_BT-COM_MultiAPMode	Fronthaul%
+AssociatedDeviceNumberOfEntries11"�
+-Device.WiFi.AccessPoint.1.AssociatedDevice.1.
+Active1
+Noise-108
+
+MACAddress40:31:3c:a3:88:1c
+LastDataDownlinkRate13000
+LastDataUplinkRate72000
+SignalStrength-54'
+AssociationTime2025-01-02T00:33:17Z
+
+X_BT-COM_Idle0"�
+3Device.WiFi.AccessPoint.1.AssociatedDevice.1.Stats.
+	BytesSent1328616
+
+BytesReceived12235
+PacketsSent3199
+PacketsReceived276
+
+ErrorsSent49
+RetransCount638"�
+-Device.WiFi.AccessPoint.1.AssociatedDevice.2.
+Active1
+Noise-108
+
+MACAddress50:d4:5c:64:f1:f0
+LastDataDownlinkRate65000
+LastDataUplinkRate72000
+SignalStrength-58'
+AssociationTime2025-01-02T00:31:38Z
+
+X_BT-COM_Idle0"�
+3Device.WiFi.AccessPoint.1.AssociatedDevice.2.Stats.
+	BytesSent2193815
+
+BytesReceived383351
+PacketsSent6529
+PacketsReceived2656
+
+ErrorsSent0
+RetransCount30"�
+-Device.WiFi.AccessPoint.1.AssociatedDevice.3.
+Active1
+Noise-108
+
+MACAddress0c:dc:91:0b:a8:03
+LastDataDownlinkRate65000
+LastDataUplinkRate72000
+SignalStrength-53'
+AssociationTime2025-01-02T00:31:32Z
+
+X_BT-COM_Idle0"�
+3Device.WiFi.AccessPoint.1.AssociatedDevice.3.Stats.
+	BytesSent2543576
+
+BytesReceived1996017
+PacketsSent9144
+PacketsReceived5778
+
+ErrorsSent0
+RetransCount0"�
+-Device.WiFi.AccessPoint.1.AssociatedDevice.4.
+Active1
+Noise-108
+
+MACAddress54:ef:44:53:ce:bb
+LastDataDownlinkRate72000
+LastDataUplinkRate72000
+SignalStrength-38'
+AssociationTime2025-01-02T00:30:55Z
+
+X_BT-COM_Idle0"�
+3Device.WiFi.AccessPoint.1.AssociatedDevice.4.Stats.
+	BytesSent2157252
+
+BytesReceived66080
+PacketsSent5004
+PacketsReceived408
+
+ErrorsSent0
+RetransCount30"�
+-Device.WiFi.AccessPoint.1.AssociatedDevice.5.
+Active1
+Noise-108
+
+MACAddressc8:2e:18:34:8c:0c
+LastDataDownlinkRate72000
+LastDataUplinkRate6000
+SignalStrength-42'
+AssociationTime2025-01-02T00:30:50Z
+
+X_BT-COM_Idle0"�
+3Device.WiFi.AccessPoint.1.AssociatedDevice.5.Stats.
+	BytesSent2071360
+
+BytesReceived242947
+PacketsSent5182
+PacketsReceived714
+
+ErrorsSent0
+RetransCount15"�
+-Device.WiFi.AccessPoint.1.AssociatedDevice.6.
+Active1
+Noise-108
+
+MACAddress54:ef:44:52:a7:de
+LastDataDownlinkRate72000
+LastDataUplinkRate65000
+SignalStrength-48'
+AssociationTime2025-01-02T00:30:51Z
+
+X_BT-COM_Idle0"�
+3Device.WiFi.AccessPoint.1.AssociatedDevice.6.Stats.
+	BytesSent2159837
+
+BytesReceived77862
+PacketsSent5036
+PacketsReceived431
+
+ErrorsSent0
+RetransCount60"�
+-Device.WiFi.AccessPoint.1.AssociatedDevice.7.
+Active1
+Noise-108
+
+MACAddressc8:2e:18:34:5c:88
+LastDataDownlinkRate72000
+LastDataUplinkRate72000
+SignalStrength-43'
+AssociationTime2025-01-02T00:30:51Z
+
+X_BT-COM_Idle0"�
+3Device.WiFi.AccessPoint.1.AssociatedDevice.7.Stats.
+	BytesSent2159895
+
+BytesReceived104610
+PacketsSent5159
+PacketsReceived444
+
+ErrorsSent0
+RetransCount30"�
+-Device.WiFi.AccessPoint.1.AssociatedDevice.8.
+Active1
+Noise-108
+
+MACAddressc8:2e:18:34:a2:e4
+LastDataDownlinkRate72000
+LastDataUplinkRate65000
+SignalStrength-41'
+AssociationTime2025-01-02T00:30:51Z
+
+X_BT-COM_Idle0"�
+3Device.WiFi.AccessPoint.1.AssociatedDevice.8.Stats.
+	BytesSent2042147
+
+BytesReceived277223
+PacketsSent5101
+PacketsReceived780
+
+ErrorsSent0
+RetransCount15"�
+-Device.WiFi.AccessPoint.1.AssociatedDevice.9.
+Active1
+Noise-108
+
+MACAddressc8:2e:18:34:3b:cc
+LastDataDownlinkRate72000
+LastDataUplinkRate72000
+SignalStrength-39'
+AssociationTime2025-01-02T00:30:51Z
+
+X_BT-COM_Idle0"�
+3Device.WiFi.AccessPoint.1.AssociatedDevice.9.Stats.
+	BytesSent2114381
+
+BytesReceived193097
+PacketsSent5173
+PacketsReceived633
+
+ErrorsSent0
+RetransCount15"�
+.Device.WiFi.AccessPoint.1.AssociatedDevice.10.
+Active1
+Noise-108
+
+MACAddressc8:2e:18:34:8c:14
+LastDataDownlinkRate72000
+LastDataUplinkRate57000
+SignalStrength-46'
+AssociationTime2025-01-02T00:39:26Z
+
+X_BT-COM_Idle0"�
+4Device.WiFi.AccessPoint.1.AssociatedDevice.10.Stats.
+	BytesSent732885
+
+BytesReceived66871
+PacketsSent1799
+PacketsReceived354
+
+ErrorsSent33
+RetransCount459"�
+.Device.WiFi.AccessPoint.1.AssociatedDevice.11.
+Active1
+Noise-108
+
+MACAddress24:58:7c:08:3f:a8
+LastDataDownlinkRate72000
+LastDataUplinkRate72000
+SignalStrength-45'
+AssociationTime2025-01-02T00:31:42Z
+
+X_BT-COM_Idle0"�
+4Device.WiFi.AccessPoint.1.AssociatedDevice.11.Stats.
+	BytesSent1777998
+
+BytesReceived101757
+PacketsSent4071
+PacketsReceived295
+
+ErrorsSent0
+RetransCount8"�
+#Device.WiFi.AccessPoint.1.Security.�
+ModesSupported�None,WPA-Personal,WPA2-Personal,WPA3-Personal,WPA-WPA2-Personal,WPA3-Personal-Transition,WPA-Enterprise,WPA2-Enterprise,WPA3-Enterprise,WPA-WPA2-Enterprise'
+ModeEnabledWPA3-Personal-Transition
+WEPKey
+PreSharedKey
+RekeyingInterval0
+
+SAEPassphrase
+RadiusServerIPAddr
+RadiusServerPort1812
+RadiusSecret
+	MFPConfigOptional2
+X_BT-COM_KeyPassphrasekZQefPs77eh55fQpCSo6Bb2I2
+X_BT-COM_SAEPassphrasekZQefPs77eh55fQpCSo6Bb2I?
+X_BT-COM_ModesAllowed&WPA3-Personal-Transition,WPA3-Personal"�
+Device.WiFi.AccessPoint.1.WPS.
+Enable0$
+ConfigMethodsSupported
+PushButton"
+ConfigMethodsEnabled
+PushButton
+StatusDisabled"U
+%Device.WiFi.AccessPoint.1.Accounting.
+ServerIPAddr
+
+ServerPort1813
+Secret"�
+Device.WiFi.AccessPoint.2.
+Aliascpe-2
+Enable0
+StatusDisabled#
+
+SSIDReferenceDevice.WiFi.SSID.2
+SSIDAdvertisementEnabled1
+	WMMEnable1
+UAPSDEnable0
+MACAddressControlEnabled0
+UAPSDCapability1
+
+WMMCapability1
+MaxAllowedAssociations0
+IsolationEnable1
+AllowedMACAddress
+X_BT-COM_MultiAPModeNone$
+AssociatedDeviceNumberOfEntries0"�
+#Device.WiFi.AccessPoint.2.Security.�
+ModesSupported�None,WEP-64,WEP-128,WPA-Personal,WPA2-Personal,WPA3-Personal,WPA-WPA2-Personal,WPA3-Personal-Transition,WPA-Enterprise,WPA2-Enterprise,WPA3-Enterprise,WPA-WPA2-Enterprise
+ModeEnabledNone
+WEPKey
+PreSharedKey
+RekeyingInterval0
+
+SAEPassphrase
+RadiusServerIPAddr
+RadiusServerPort1812
+RadiusSecret
+	MFPConfigDisabled
+X_BT-COM_KeyPassphrase
+X_BT-COM_SAEPassphrased
+X_BT-COM_ModesAllowedKNone,WPA-WPA2-Personal,WPA2-Personal,WPA3-Personal-Transition,WPA3-Personal"�
+Device.WiFi.AccessPoint.2.WPS.
+Enable0$
+ConfigMethodsSupported
+PushButton"
+ConfigMethodsEnabled
+PushButton
+StatusDisabled"U
+%Device.WiFi.AccessPoint.2.Accounting.
+ServerIPAddr
+
+ServerPort1813
+Secret"�
+Device.WiFi.AccessPoint.3.
+Aliascpe-3
+Enable0
+StatusDisabled#
+
+SSIDReferenceDevice.WiFi.SSID.3
+SSIDAdvertisementEnabled1
+	WMMEnable1
+UAPSDEnable0
+MACAddressControlEnabled0
+UAPSDCapability1
+
+WMMCapability1
+MaxAllowedAssociations0
+IsolationEnable1
+AllowedMACAddress
+X_BT-COM_MultiAPModeNone$
+AssociatedDeviceNumberOfEntries0"�
+#Device.WiFi.AccessPoint.3.Security.�
+ModesSupported�None,WEP-64,WEP-128,WPA-Personal,WPA2-Personal,WPA3-Personal,WPA-WPA2-Personal,WPA3-Personal-Transition,WPA-Enterprise,WPA2-Enterprise,WPA3-Enterprise,WPA-WPA2-Enterprise
+ModeEnabledNone
+WEPKey
+PreSharedKey
+RekeyingInterval0
+
+SAEPassphrase
+RadiusServerIPAddr
+RadiusServerPort1812
+RadiusSecret
+	MFPConfigDisabled"
+X_BT-COM_KeyPassphrase00000000"
+X_BT-COM_SAEPassphrase00000000d
+X_BT-COM_ModesAllowedKNone,WPA-WPA2-Personal,WPA2-Personal,WPA3-Personal-Transition,WPA3-Personal"�
+Device.WiFi.AccessPoint.3.WPS.
+Enable0$
+ConfigMethodsSupported
+PushButton"
+ConfigMethodsEnabled
+PushButton
+StatusDisabled"U
+%Device.WiFi.AccessPoint.3.Accounting.
+ServerIPAddr
+
+ServerPort1813
+Secret"�
+Device.WiFi.AccessPoint.4.
+Aliascpe-4
+Enable0
+StatusDisabled#
+
+SSIDReferenceDevice.WiFi.SSID.4
+SSIDAdvertisementEnabled1
+	WMMEnable1
+UAPSDEnable0
+MACAddressControlEnabled0
+UAPSDCapability1
+
+WMMCapability1
+MaxAllowedAssociations128
+IsolationEnable1
+AllowedMACAddress
+X_BT-COM_MultiAPModeNone$
+AssociatedDeviceNumberOfEntries0"�
+#Device.WiFi.AccessPoint.4.Security.�
+ModesSupported�None,WEP-64,WEP-128,WPA-Personal,WPA2-Personal,WPA3-Personal,WPA-WPA2-Personal,WPA3-Personal-Transition,WPA-Enterprise,WPA2-Enterprise,WPA3-Enterprise,WPA-WPA2-Enterprise'
+ModeEnabledWPA3-Personal-Transition
+WEPKey
+PreSharedKey
+RekeyingInterval0
+
+SAEPassphrase
+RadiusServerIPAddr
+RadiusServerPort1812
+RadiusSecret
+	MFPConfigDisabled2
+X_BT-COM_KeyPassphraseAAD6uK7B9NqE4yvLwTjSxnN42
+X_BT-COM_SAEPassphraseAAD6uK7B9NqE4yvLwTjSxnN4d
+X_BT-COM_ModesAllowedKNone,WPA-WPA2-Personal,WPA2-Personal,WPA3-Personal-Transition,WPA3-Personal"�
+Device.WiFi.AccessPoint.4.WPS.
+Enable0$
+ConfigMethodsSupported
+PushButton"
+ConfigMethodsEnabled
+PushButton
+StatusDisabled"U
+%Device.WiFi.AccessPoint.4.Accounting.
+ServerIPAddr
+
+ServerPort1813
+Secret"�
+Device.WiFi.AccessPoint.5.
+Aliascpe-5
+Enable1
+StatusEnabled#
+
+SSIDReferenceDevice.WiFi.SSID.5
+SSIDAdvertisementEnabled0
+	WMMEnable1
+UAPSDEnable0
+MACAddressControlEnabled0
+UAPSDCapability1
+
+WMMCapability1
+MaxAllowedAssociations6
+IsolationEnable0
+AllowedMACAddress 
+X_BT-COM_MultiAPModeBackhaul$
+AssociatedDeviceNumberOfEntries0"�
+#Device.WiFi.AccessPoint.5.Security.�
+ModesSupported�None,WPA-Personal,WPA2-Personal,WPA3-Personal,WPA-WPA2-Personal,WPA3-Personal-Transition,WPA-Enterprise,WPA2-Enterprise,WPA3-Enterprise,WPA-WPA2-Enterprise
+ModeEnabled
+WPA3-Personal
+WEPKey
+PreSharedKey
+RekeyingInterval0
+
+SAEPassphrase
+RadiusServerIPAddr
+RadiusServerPort1812
+RadiusSecret
+	MFPConfigRequiredR
+X_BT-COM_KeyPassphrase8bef33adf24cdf87845a6ff684cf7ca413bd6496ba188bf8fea5cd86eR
+X_BT-COM_SAEPassphrase8bef33adf24cdf87845a6ff684cf7ca413bd6496ba188bf8fea5cd86e&
+X_BT-COM_ModesAllowed
+WPA3-Personal"�
+Device.WiFi.AccessPoint.5.WPS.
+Enable0$
+ConfigMethodsSupported
+PushButton"
+ConfigMethodsEnabled
+PushButton
+StatusDisabled"U
+%Device.WiFi.AccessPoint.5.Accounting.
+ServerIPAddr
+
+ServerPort1813
+Secret"�
+Device.WiFi.AccessPoint.6.
+Aliascpe-6
+Enable1
+StatusEnabled#
+
+SSIDReferenceDevice.WiFi.SSID.6
+SSIDAdvertisementEnabled1
+	WMMEnable1
+UAPSDEnable0
+MACAddressControlEnabled0
+UAPSDCapability1
+
+WMMCapability1
+MaxAllowedAssociations75
+IsolationEnable0
+AllowedMACAddress!
+X_BT-COM_MultiAPMode	Fronthaul$
+AssociatedDeviceNumberOfEntries2"�
+-Device.WiFi.AccessPoint.6.AssociatedDevice.1.
+Active1
+Noise-107
+
+MACAddressc0:8d:51:33:1b:07
+LastDataDownlinkRate390000
+LastDataUplinkRate433000
+SignalStrength-62'
+AssociationTime2025-01-02T00:31:31Z
+
+X_BT-COM_Idle0"�
+3Device.WiFi.AccessPoint.6.AssociatedDevice.1.Stats.
+	BytesSent2234193
+
+BytesReceived516965
+PacketsSent6893
+PacketsReceived3080
+
+ErrorsSent0
+RetransCount15"�
+-Device.WiFi.AccessPoint.6.AssociatedDevice.2.
+Active1
+Noise-107
+
+MACAddressc8:d7:78:bd:ff:21
+LastDataDownlinkRate325000
+LastDataUplinkRate433000
+SignalStrength-57'
+AssociationTime2025-01-02T00:31:51Z
+
+X_BT-COM_Idle0"�
+3Device.WiFi.AccessPoint.6.AssociatedDevice.2.Stats.
+	BytesSent1519068
+
+BytesReceived501755
+PacketsSent3622
+PacketsReceived584
+
+ErrorsSent0
+RetransCount30"�
+#Device.WiFi.AccessPoint.6.Security.�
+ModesSupported�None,WPA-Personal,WPA2-Personal,WPA3-Personal,WPA-WPA2-Personal,WPA3-Personal-Transition,WPA-Enterprise,WPA2-Enterprise,WPA3-Enterprise,WPA-WPA2-Enterprise'
+ModeEnabledWPA3-Personal-Transition
+WEPKey
+PreSharedKey
+RekeyingInterval0
+
+SAEPassphrase
+RadiusServerIPAddr
+RadiusServerPort1812
+RadiusSecret
+	MFPConfigOptional2
+X_BT-COM_KeyPassphrasekZQefPs77eh55fQpCSo6Bb2I2
+X_BT-COM_SAEPassphrasekZQefPs77eh55fQpCSo6Bb2I?
+X_BT-COM_ModesAllowed&WPA3-Personal-Transition,WPA3-Personal"�
+Device.WiFi.AccessPoint.6.WPS.
+Enable0$
+ConfigMethodsSupported
+PushButton"
+ConfigMethodsEnabled
+PushButton
+StatusDisabled"U
+%Device.WiFi.AccessPoint.6.Accounting.
+ServerIPAddr
+
+ServerPort1813
+Secret"�
+Device.WiFi.AccessPoint.7.
+Aliascpe-7
+Enable0
+StatusDisabled#
+
+SSIDReferenceDevice.WiFi.SSID.7
+SSIDAdvertisementEnabled1
+	WMMEnable1
+UAPSDEnable0
+MACAddressControlEnabled0
+UAPSDCapability1
+
+WMMCapability1
+MaxAllowedAssociations0
+IsolationEnable1
+AllowedMACAddress
+X_BT-COM_MultiAPModeNone$
+AssociatedDeviceNumberOfEntries0"�
+#Device.WiFi.AccessPoint.7.Security.�
+ModesSupported�None,WEP-64,WEP-128,WPA-Personal,WPA2-Personal,WPA3-Personal,WPA-WPA2-Personal,WPA3-Personal-Transition,WPA-Enterprise,WPA2-Enterprise,WPA3-Enterprise,WPA-WPA2-Enterprise
+ModeEnabledNone
+WEPKey
+PreSharedKey
+RekeyingInterval0
+
+SAEPassphrase
+RadiusServerIPAddr
+RadiusServerPort1812
+RadiusSecret
+	MFPConfigDisabled
+X_BT-COM_KeyPassphrase
+X_BT-COM_SAEPassphrased
+X_BT-COM_ModesAllowedKNone,WPA-WPA2-Personal,WPA2-Personal,WPA3-Personal-Transition,WPA3-Personal"�
+Device.WiFi.AccessPoint.7.WPS.
+Enable0$
+ConfigMethodsSupported
+PushButton"
+ConfigMethodsEnabled
+PushButton
+StatusDisabled"U
+%Device.WiFi.AccessPoint.7.Accounting.
+ServerIPAddr
+
+ServerPort1813
+Secret"�
+Device.WiFi.AccessPoint.8.
+Aliascpe-8
+Enable0
+StatusDisabled#
+
+SSIDReferenceDevice.WiFi.SSID.8
+SSIDAdvertisementEnabled1
+	WMMEnable1
+UAPSDEnable0
+MACAddressControlEnabled0
+UAPSDCapability1
+
+WMMCapability1
+MaxAllowedAssociations0
+IsolationEnable1
+AllowedMACAddress
+X_BT-COM_MultiAPModeNone$
+AssociatedDeviceNumberOfEntries0"�
+#Device.WiFi.AccessPoint.8.Security.�
+ModesSupported�None,WEP-64,WEP-128,WPA-Personal,WPA2-Personal,WPA3-Personal,WPA-WPA2-Personal,WPA3-Personal-Transition,WPA-Enterprise,WPA2-Enterprise,WPA3-Enterprise,WPA-WPA2-Enterprise
+ModeEnabledNone
+WEPKey
+PreSharedKey
+RekeyingInterval0
+
+SAEPassphrase
+RadiusServerIPAddr
+RadiusServerPort1812
+RadiusSecret
+	MFPConfigDisabled"
+X_BT-COM_KeyPassphrase00000000"
+X_BT-COM_SAEPassphrase00000000d
+X_BT-COM_ModesAllowedKNone,WPA-WPA2-Personal,WPA2-Personal,WPA3-Personal-Transition,WPA3-Personal"�
+Device.WiFi.AccessPoint.8.WPS.
+Enable0$
+ConfigMethodsSupported
+PushButton"
+ConfigMethodsEnabled
+PushButton
+StatusDisabled"U
+%Device.WiFi.AccessPoint.8.Accounting.
+ServerIPAddr
+
+ServerPort1813
+Secret"�
+Device.WiFi.AccessPoint.9.
+Aliascpe-9
+Enable0
+StatusDisabled#
+
+SSIDReferenceDevice.WiFi.SSID.9
+SSIDAdvertisementEnabled1
+	WMMEnable1
+UAPSDEnable0
+MACAddressControlEnabled0
+UAPSDCapability1
+
+WMMCapability1
+MaxAllowedAssociations75
+IsolationEnable1
+AllowedMACAddress
+X_BT-COM_MultiAPModeNone$
+AssociatedDeviceNumberOfEntries0"�
+#Device.WiFi.AccessPoint.9.Security.�
+ModesSupported�None,WEP-64,WEP-128,WPA-Personal,WPA2-Personal,WPA3-Personal,WPA-WPA2-Personal,WPA3-Personal-Transition,WPA-Enterprise,WPA2-Enterprise,WPA3-Enterprise,WPA-WPA2-Enterprise'
+ModeEnabledWPA3-Personal-Transition
+WEPKey
+PreSharedKey
+RekeyingInterval0
+
+SAEPassphrase
+RadiusServerIPAddr
+RadiusServerPort1812
+RadiusSecret
+	MFPConfigDisabled2
+X_BT-COM_KeyPassphraseAAD6uK7B9NqE4yvLwTjSxnN42
+X_BT-COM_SAEPassphraseAAD6uK7B9NqE4yvLwTjSxnN4d
+X_BT-COM_ModesAllowedKNone,WPA-WPA2-Personal,WPA2-Personal,WPA3-Personal-Transition,WPA3-Personal"�
+Device.WiFi.AccessPoint.9.WPS.
+Enable0$
+ConfigMethodsSupported
+PushButton"
+ConfigMethodsEnabled
+PushButton
+StatusDisabled"U
+%Device.WiFi.AccessPoint.9.Accounting.
+ServerIPAddr
+
+ServerPort1813
+Secret"�
+Device.WiFi.AccessPoint.10.
+Aliascpe-10
+Enable1
+StatusEnabled$
+
+SSIDReferenceDevice.WiFi.SSID.10
+SSIDAdvertisementEnabled0
+	WMMEnable1
+UAPSDEnable0
+MACAddressControlEnabled0
+UAPSDCapability1
+
+WMMCapability1
+MaxAllowedAssociations6
+IsolationEnable0
+AllowedMACAddress 
+X_BT-COM_MultiAPModeBackhaul$
+AssociatedDeviceNumberOfEntries0"�
+$Device.WiFi.AccessPoint.10.Security.�
+ModesSupported�None,WPA-Personal,WPA2-Personal,WPA3-Personal,WPA-WPA2-Personal,WPA3-Personal-Transition,WPA-Enterprise,WPA2-Enterprise,WPA3-Enterprise,WPA-WPA2-Enterprise
+ModeEnabled
+WPA3-Personal
+WEPKey
+PreSharedKey
+RekeyingInterval0
+
+SAEPassphrase
+RadiusServerIPAddr
+RadiusServerPort1812
+RadiusSecret
+	MFPConfigRequiredR
+X_BT-COM_KeyPassphrase8bef33adf24cdf87845a6ff684cf7ca413bd6496ba188bf8fea5cd86eR
+X_BT-COM_SAEPassphrase8bef33adf24cdf87845a6ff684cf7ca413bd6496ba188bf8fea5cd86e&
+X_BT-COM_ModesAllowed
+WPA3-Personal"�
+Device.WiFi.AccessPoint.10.WPS.
+Enable0$
+ConfigMethodsSupported
+PushButton"
+ConfigMethodsEnabled
+PushButton
+StatusDisabled"V
+&Device.WiFi.AccessPoint.10.Accounting.
+ServerIPAddr
+
+ServerPort1813
+Secret"�
+Device.WiFi.AccessPoint.11.
+Aliascpe-11
+Enable0
+StatusDisabled$
+
+SSIDReferenceDevice.WiFi.SSID.11
+SSIDAdvertisementEnabled1
+	WMMEnable1
+UAPSDEnable0
+MACAddressControlEnabled0
+UAPSDCapability1
+
+WMMCapability1
+MaxAllowedAssociations128
+IsolationEnable0
+AllowedMACAddress!
+X_BT-COM_MultiAPMode	Fronthaul$
+AssociatedDeviceNumberOfEntries0"�
+$Device.WiFi.AccessPoint.11.Security.�
+ModesSupported�None,WEP-64,WEP-128,WPA-Personal,WPA2-Personal,WPA3-Personal,WPA-WPA2-Personal,WPA3-Personal-Transition,WPA-Enterprise,WPA2-Enterprise,WPA3-Enterprise,WPA-WPA2-Enterprise
+ModeEnabled
+WPA2-Personal
+WEPKey
+PreSharedKey
+RekeyingInterval0
+
+SAEPassphrase
+RadiusServerIPAddr
+RadiusServerPort1812
+RadiusSecret
+	MFPConfigDisabled
+X_BT-COM_KeyPassphrase
+X_BT-COM_SAEPassphrase8
+X_BT-COM_ModesAllowedWPA-WPA2-Personal,WPA2-Personal"�
+Device.WiFi.AccessPoint.11.WPS.
+Enable1$
+ConfigMethodsSupported
+PushButton"
+ConfigMethodsEnabled
+PushButton
+Status
+Configured"V
+&Device.WiFi.AccessPoint.11.Accounting.
+ServerIPAddr
+
+ServerPort1813
+Secret"�
+Device.WiFi.AccessPoint.12.
+Aliascpe-12
+Enable0
+StatusDisabled$
+
+SSIDReferenceDevice.WiFi.SSID.12
+SSIDAdvertisementEnabled1
+	WMMEnable1
+UAPSDEnable0
+MACAddressControlEnabled0
+UAPSDCapability1
+
+WMMCapability1
+MaxAllowedAssociations75
+IsolationEnable0
+AllowedMACAddress!
+X_BT-COM_MultiAPMode	Fronthaul$
+AssociatedDeviceNumberOfEntries0"�
+$Device.WiFi.AccessPoint.12.Security.�
+ModesSupported�None,WEP-64,WEP-128,WPA-Personal,WPA2-Personal,WPA3-Personal,WPA-WPA2-Personal,WPA3-Personal-Transition,WPA-Enterprise,WPA2-Enterprise,WPA3-Enterprise,WPA-WPA2-Enterprise
+ModeEnabled
+WPA2-Personal
+WEPKey
+PreSharedKey
+RekeyingInterval0
+
+SAEPassphrase
+RadiusServerIPAddr
+RadiusServerPort1812
+RadiusSecret
+	MFPConfigDisabled
+X_BT-COM_KeyPassphrase
+X_BT-COM_SAEPassphrase8
+X_BT-COM_ModesAllowedWPA-WPA2-Personal,WPA2-Personal"�
+Device.WiFi.AccessPoint.12.WPS.
+Enable1$
+ConfigMethodsSupported
+PushButton"
+ConfigMethodsEnabled
+PushButton
+Status
+Configured"V
+&Device.WiFi.AccessPoint.12.Accounting.
+ServerIPAddr
+
+ServerPort1813
+Secret"�
+Device.WiFi.AccessPoint.13.
+Aliascpe-13
+Enable1
+StatusEnabled$
+
+SSIDReferenceDevice.WiFi.SSID.13
+SSIDAdvertisementEnabled1
+	WMMEnable1
+UAPSDEnable0
+MACAddressControlEnabled0
+UAPSDCapability1
+
+WMMCapability1
+MaxAllowedAssociations75
+IsolationEnable0
+AllowedMACAddress!
+X_BT-COM_MultiAPMode	Fronthaul$
+AssociatedDeviceNumberOfEntries2"�
+.Device.WiFi.AccessPoint.13.AssociatedDevice.1.
+Active1
+Noise-101
+
+MACAddressd4:e9:8a:f9:02:c7
+LastDataDownlinkRate864000
+LastDataUplinkRate1152000
+SignalStrength-68'
+AssociationTime2025-01-01T22:26:49Z
+
+X_BT-COM_Idle0"�
+4Device.WiFi.AccessPoint.13.AssociatedDevice.1.Stats.
+	BytesSent
+1214358336
+
+BytesReceived	168361341
+PacketsSent3887060
+PacketsReceived1982713
+
+ErrorsSent0
+RetransCount0"�
+.Device.WiFi.AccessPoint.13.AssociatedDevice.2.
+Active1
+Noise-101
+
+MACAddress9e:0f:20:6a:57:8e
+LastDataDownlinkRate1152000
+LastDataUplinkRate864000
+SignalStrength-59'
+AssociationTime2025-01-01T16:27:22Z
+
+X_BT-COM_Idle0"�
+4Device.WiFi.AccessPoint.13.AssociatedDevice.2.Stats.
+	BytesSent	205347835
+
+BytesReceived21497933
+PacketsSent274993
+PacketsReceived59512
+
+ErrorsSent0
+RetransCount79"�
+$Device.WiFi.AccessPoint.13.Security./
+ModesSupportedWPA3-Personal,WPA3-Enterprise
+ModeEnabled
+WPA3-Personal
+WEPKey
+PreSharedKey
+RekeyingInterval0
+
+SAEPassphrase
+RadiusServerIPAddr
+RadiusServerPort1812
+RadiusSecret
+	MFPConfigRequired2
+X_BT-COM_KeyPassphrasekZQefPs77eh55fQpCSo6Bb2I2
+X_BT-COM_SAEPassphrasekZQefPs77eh55fQpCSo6Bb2I&
+X_BT-COM_ModesAllowed
+WPA3-Personal"�
+Device.WiFi.AccessPoint.13.WPS.
+Enable0$
+ConfigMethodsSupported
+PushButton"
+ConfigMethodsEnabled
+PushButton
+StatusDisabled"V
+&Device.WiFi.AccessPoint.13.Accounting.
+ServerIPAddr
+
+ServerPort1813
+Secret"�
+Device.WiFi.AccessPoint.14.
+Aliascpe-14
+Enable0
+StatusDisabled$
+
+SSIDReferenceDevice.WiFi.SSID.14
+SSIDAdvertisementEnabled1
+	WMMEnable1
+UAPSDEnable0
+MACAddressControlEnabled0
+UAPSDCapability1
+
+WMMCapability1
+MaxAllowedAssociations75
+IsolationEnable1
+AllowedMACAddress
+X_BT-COM_MultiAPModeNone$
+AssociatedDeviceNumberOfEntries0"�
+$Device.WiFi.AccessPoint.14.Security.�
+ModesSupported�None,WEP-64,WEP-128,WPA-Personal,WPA2-Personal,WPA3-Personal,WPA-WPA2-Personal,WPA3-Personal-Transition,WPA-Enterprise,WPA2-Enterprise,WPA3-Enterprise,WPA-WPA2-Enterprise
+ModeEnabled
+WPA3-Personal
+WEPKey
+PreSharedKey
+RekeyingInterval0
+
+SAEPassphrase
+RadiusServerIPAddr
+RadiusServerPort1812
+RadiusSecret
+	MFPConfigDisabled2
+X_BT-COM_KeyPassphraseAAD6uK7B9NqE4yvLwTjSxnN42
+X_BT-COM_SAEPassphraseAAD6uK7B9NqE4yvLwTjSxnN4&
+X_BT-COM_ModesAllowed
+WPA3-Personal"�
+Device.WiFi.AccessPoint.14.WPS.
+Enable0$
+ConfigMethodsSupported
+PushButton"
+ConfigMethodsEnabled
+PushButton
+StatusDisabled"V
+&Device.WiFi.AccessPoint.14.Accounting.
+ServerIPAddr
+
+ServerPort1813
+Secret"�
+Device.WiFi.AccessPoint.15.
+Aliascpe-15
+Enable1
+StatusEnabled$
+
+SSIDReferenceDevice.WiFi.SSID.15
+SSIDAdvertisementEnabled0
+	WMMEnable1
+UAPSDEnable0
+MACAddressControlEnabled0
+UAPSDCapability1
+
+WMMCapability1
+MaxAllowedAssociations6
+IsolationEnable0
+AllowedMACAddress 
+X_BT-COM_MultiAPModeBackhaul$
+AssociatedDeviceNumberOfEntries0"�
+$Device.WiFi.AccessPoint.15.Security./
+ModesSupportedWPA3-Personal,WPA3-Enterprise
+ModeEnabled
+WPA3-Personal
+WEPKey
+PreSharedKey
+RekeyingInterval0
+
+SAEPassphrase
+RadiusServerIPAddr
+RadiusServerPort1812
+RadiusSecret
+	MFPConfigRequiredR
+X_BT-COM_KeyPassphrase8bef33adf24cdf87845a6ff684cf7ca413bd6496ba188bf8fea5cd86eR
+X_BT-COM_SAEPassphrase8bef33adf24cdf87845a6ff684cf7ca413bd6496ba188bf8fea5cd86e&
+X_BT-COM_ModesAllowed
+WPA3-Personal"�
+Device.WiFi.AccessPoint.15.WPS.
+Enable0$
+ConfigMethodsSupported
+PushButton"
+ConfigMethodsEnabled
+PushButton
+StatusDisabled"V
+&Device.WiFi.AccessPoint.15.Accounting.
+ServerIPAddr
+
+ServerPort1813
+Secret
+�
+Device.Ethernet."A
+Device.Ethernet.Interface.1.
+Nameeth1
+CurrentBitRate0"[
+"Device.Ethernet.Interface.1.Stats.
+	BytesSent45950863788
+
+BytesReceived
+1141097921"C
+Device.Ethernet.Interface.2.
+Nameeth2
+CurrentBitRate100"Z
+"Device.Ethernet.Interface.2.Stats.
+	BytesSent69909588483
+
+BytesReceived	517558576"C
+Device.Ethernet.Interface.3.
+Nameeth3
+CurrentBitRate100"Y
+"Device.Ethernet.Interface.3.Stats.
+	BytesSent
+2529636546
+
+BytesReceived	134726226"D
+Device.Ethernet.Interface.4.
+Nameeth4
+CurrentBitRate1000"]
+"Device.Ethernet.Interface.4.Stats.
+	BytesSent91616137298
+
+BytesReceived135526475973"D
+Device.Ethernet.Interface.5.
+Nameeth0
+CurrentBitRate2500"\
+"Device.Ethernet.Interface.5.Stats.
+	BytesSent
+3768913197
+
+BytesReceived119058329609":
+Device.Ethernet.Link.1.
+
+MACAddress58:96:71:7E:41:10"'
+Device.Ethernet.Link.2.
+
+MACAddress":
+Device.Ethernet.Link.3.
+
+MACAddress58:96:71:7E:41:19"'
+Device.Ethernet.Link.4.
+
+MACAddress":
+Device.Ethernet.Link.5.
+
+MACAddress58:96:71:7E:41:18
+S
+ Device.X_BT-COM_NFC.Interface.1."/
+ Device.X_BT-COM_NFC.Interface.1.
+Enable1
